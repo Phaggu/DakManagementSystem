@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DakManagementSystemUI (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "DakManagementSystemUI (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
