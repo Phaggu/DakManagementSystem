@@ -26,11 +26,17 @@ namespace DakManagementSystemUI
         public MainWindow()
         {
             this.InitializeComponent();
+            Title = "Dak Management System";
         }
 
         private void myButton_Click(object sender, RoutedEventArgs e)
         {
-            myButton.Content = "Clicked";
+            //myButton.Content = "Clicked";
+        }
+
+        private void LoginWithDSC(object sender, RoutedEventArgs e)
+        {
+            return;
         }
     }
 }
